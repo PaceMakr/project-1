@@ -67,6 +67,8 @@ The theme of this game is space and music. All of the phrases/words will be base
 - As a user I want to be able to <see that I guessed incorrectly as a piece of the spaceship is built>
 - As a User I want to be able to <see that I have won>
 - As a User I want to be able to <see that I have lost> 
+- As a User I want to be able to <see the song recommendation that I uncovered with my guesses>
+- As a User I want to 
 - As a User I want to be able to <restart/start a new game>
 
 ---
