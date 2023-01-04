@@ -14,7 +14,7 @@ The theme of this game is space and music. All of the phrases/words will be base
 
 
 
-**User Stories
+### User Stories:
 - As a user I want to be able to Launch the Game
 - As a user I want to be able to start the Game
 - As a user I want to be able to guess a letter
@@ -28,7 +28,7 @@ The theme of this game is space and music. All of the phrases/words will be base
 
 ---
 
-**MVP:**
+### MVP:
 - As a User I want to be able to <launch game>
 - As a User I want to be able to <start game>
 - As a User I want to be able to <make a letter guess>
@@ -41,7 +41,7 @@ The theme of this game is space and music. All of the phrases/words will be base
 
 ---
 
-**Version 2**
+### Version 2:
 - As a User I want to be able to <launch game>
 - As a User I want to be able to <see the start game theme>
 - As a User I want to be able to <start game>
@@ -55,7 +55,7 @@ The theme of this game is space and music. All of the phrases/words will be base
 - As a User I want to be able to <restart/start a new game>
 
 ---
-**Version 3**
+### Version 3:
 - As a User I want to be able to <hear game sound>
 - As a User I want to be able to <launch game>
 - As a User I want to be able to <see the start game theme>
@@ -69,8 +69,9 @@ The theme of this game is space and music. All of the phrases/words will be base
 - As a User I want to be able to <see that I have lost> 
 - As a User I want to be able to <restart/start a new game>
 
+---
 
-**Pseudocode:**
+### Pseudocode:
 1. User uses the cursor to click the start game button in the game window
 2. The window changes from the start window to the main window
 3. The game window pops up and displays a blank word/phrase depicted by '_', a dialogue window displaying brief instructions, the title of the game, previously guessed letters
